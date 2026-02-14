@@ -1,4 +1,4 @@
-# AlwaysOn – Zero Downtime AWS Deployment
+# zero-downtime-deployment-governance
 
 Deploy updates without breaking live users.
 
